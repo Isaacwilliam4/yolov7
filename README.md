@@ -308,3 +308,9 @@ YOLOv7-3d-detection & YOLOv7-lidar & YOLOv7-road (with NTUT)
 * [https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose](https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose)
 
 </details>
+
+## Useful Scripts
+To run the inference with a video camera.
+```
+python3 detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source 0
+```
