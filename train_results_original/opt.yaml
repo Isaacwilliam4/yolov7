@@ -2,7 +2,7 @@ weights: ''
 cfg: cfg/training/yolov7.yaml
 data: data/coco.yaml
 hyp: data/hyp.scratch.p5.yaml
-epochs: 300
+epochs: 25
 batch_size: 32
 img_size:
 - 640
