@@ -38,9 +38,11 @@ data/images/*
 results*.csv
 
 # Datasets -------------------------------------------------------------------------------------------------------------
-coco/
+coco*/
 coco128/
 VOC/
+
+*results*
 
 coco2017labels-segments.zip
 test2017.zip
