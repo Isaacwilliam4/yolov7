@@ -31,3 +31,8 @@ SHAP is a tool for analyzing machine learning models, providing insights into ho
 The next stage of my project will involve using SHAP to analyze YOLOv7, aiming to identify its weaknesses and determine potential improvements.
 
 ---
+
+# Training Script
+```
+python3 train.py --workers 8 --device 0 --batch-size 32 --data data/coco.yaml --img 640 --cfg cfg/training/yolov7.yaml --weights '' --name yolo_extra_training --hyp data/hyp.scratch.p5.yaml --epochs 25
+```
