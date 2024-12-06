@@ -16,7 +16,7 @@ I successfully got the real-time YOLOv7 model working with my webcam. This allow
 
 # Class Distribution
 
-![Class Distribution](./figure/class_distribution.png)
+![Class Distribution](./figs/class_distribution.png)
 
 One of the initial insights came from analyzing the class distributions in the training data. As seen in the chart above, there is a significant bias toward the class labeled `0`, which represents *person*. This imbalance was evident during real-time testing, as the model showed greater confidence in bounding boxes placed around people compared to those placed around other objects.
 
