@@ -269,4 +269,8 @@ fabric.properties
 
 !compvision_final_project/
 !compvision_final_project/experiment_predictions/*.json
+!compvision_final_project/figs/*.jpg
+!compvision_final_project/figs/*.png
+
+
 
