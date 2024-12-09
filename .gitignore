@@ -23,6 +23,7 @@
 !setup.cfg
 !cfg/yolov3*.cfg
 
+
 *.txt
 
 storage.googleapis.com
@@ -267,3 +268,5 @@ crashlytics-build.properties
 fabric.properties
 
 !compvision_final_project/
+!compvision_final_project/experiment_predictions/*.json
+
