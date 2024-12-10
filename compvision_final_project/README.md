@@ -9,7 +9,7 @@
 
 ### 2.1 Setup
 
-Clone the [https://github.com/Isaacwilliam4/yolov7](fork of YoloV7 I have)  and install the necessary dependencies:
+Clone the [fork of YoloV7 I have](https://github.com/Isaacwilliam4/yolov7)  and install the necessary dependencies:
 
 ```bash
 cd yolov7/
